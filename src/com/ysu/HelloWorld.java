@@ -4,6 +4,10 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
 		System.out.println("Hello World222!");
-		System.out.println("´´½¨·ÖÖ§");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö§");
 	}
-}	
+}
+
+hello github å“ˆå“ˆå“ˆå“ˆ
+å°±çœ‹çœ‹
+        è¯¥é—¹
